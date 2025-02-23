@@ -10934,7 +10934,7 @@ header.masthead {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: 80vh;
+  background-size: 100vh;
 }
 header.masthead h1, header.masthead .h1 {
   font-size: 2.25rem;
